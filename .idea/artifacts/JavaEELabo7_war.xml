@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="JavaEELabo7:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>JavaEELabo7</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="JavaEELabo7-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="JavaEELabo7:war exploded" />
+    </root>
+  </artifact>
+</component>
